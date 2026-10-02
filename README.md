@@ -1,6 +1,9 @@
+
 # ekf_ws — 2D EKF Localization (ROS 2 Humble + Gazebo)
 
 Educational **Extended Kalman Filter** project for planar vehicle localization: fuse noisy GPS-like measurements with wheel odometry (and IMU where appropriate), compare **ground truth** vs **EKF** in RViz.
+
+<img width="1656" height="922" alt="rviz_demo" src="https://github.com/user-attachments/assets/9f6fcc02-8c7b-4b98-935a-2ac8a21ed80c" />
 
 ## Features
 
